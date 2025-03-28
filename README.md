@@ -25,7 +25,7 @@
 
 ## 📫 Contact Me  
 - 📩 tidiane050@gmail.com  
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/amadou-moussa-sow-077550242/])
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amadou-moussa-sow-077550242/)
   
 ## 😄 Pronouns  
 - He/Him  

@@ -24,8 +24,8 @@
 - 🎯 Startups et innovations technologiques  
 
 ## 📫 Contact Me  
-- 📩 sowboki@gmail.com  
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/amadou-moussa-sow](https://www.linkedin.com/in/amadou-moussa-sow-077550242/))
+- 📩 tidiane050@gmail.com  
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/amadou-moussa-sow-077550242/])
   
 ## 😄 Pronouns  
 - He/Him  

@@ -19,15 +19,14 @@
 - 📈 Modélisation, analyse avancée de données et IA 
 
 ## 💞️ Open to Collaboration  
-- 🚀 Projets en data science, machine learning ou automatisation  
+- 🚀 Projets en data science, Developpement logiciel ,application(web ou mobile) machine learning ou automatisation  
 - 📡 Développement d'outils décisionnels et d’optimisation  
 - 🎯 Startups et innovations technologiques  
 
 ## 📫 Contact Me  
 - 📩 sowboki@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amadou-moussa-sow)  
-- 🐦 [Twitter/X](https://twitter.com/sowboki)  
-
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/amadou-moussa-sow](https://www.linkedin.com/in/amadou-moussa-sow-077550242/))
+  
 ## 😄 Pronouns  
 - He/Him  
 

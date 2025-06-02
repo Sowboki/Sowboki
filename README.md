@@ -1,37 +1,46 @@
-# 👋 Hi, I’m Amadou Moussa SOW (@Sowboki)  
-💻 Passionné d'Informatique, de Data et d'Intelligence Artificielle  
+👋 Salut, moi c’est Amadou Moussa SOW (@Sowboki)
+💻 Étudiant passionné par la Data, l’IA et le développement de solutions innovantes
 
-## 🚀 About Me  
-- 🎓 Étudiant en 3ème année de BUT Science des Données, option Visualisation et Conception d'Outils Décisionnels (VCOD)  
-- 🏗️ Actuellement en train de développer un projet d'optimisation et d'automatisation du traitement de fichiers Excel avec Node.js, Microsoft Azure, Graph API, OpenAI API et OneDrive  
-- 💡 Toujours en quête de nouvelles idées et projets impactants  
-- 📈 J'analyse également des données de paris sportifs pour des insights stratégiques  
+🚀 À propos de moi
+🎓 Étudiant en 3e année de BUT Science des Données à l’IUT d’Aurillac
 
-## 🔍 Interests  
-- 👀 Intelligence Artificielle, Machine Learning & Automatisation  
-- 📊 Data Science, Data Engineering & Cloud Computing  
-- 🎮 Développement de jeux et applications  
-- 🌍 Recherche de bourses pour poursuivre mes études en Master dans une grande université  
+🎓 Admis en cycle ingénieur généraliste à l’ESIGELEC (spécialisation Intelligence Artificielle & Big Data)
 
-## 🌱 Currently Learning  
-- 🏗️ Développement d'API et intégration avec Microsoft Graph API  
-- ☁️ Cloud Computing (Azure) et optimisation des workflows avec Node.js  
-- 📈 Modélisation, analyse avancée de données et IA 
+🧠 Curieux, autonome et déterminé à résoudre des problématiques complexes via la data
 
-## 💞️ Open to Collaboration  
-- 🚀 Projets en data science, Developpement logiciel ,application(web ou mobile) machine learning ou automatisation  
-- 📡 Développement d'outils décisionnels et d’optimisation  
-- 🎯 Startups et innovations technologiques  
+🧰 Je travaille sur des projets mêlant automatisation, IA, cloud computing et visualisation de données
 
-## 📫 Contact Me  
-- 📩 tidiane050@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/amadou-moussa-sow-077550242/)
-  
-## 😄 Pronouns  
-- He/Him  
+📂 Actuellement en stage chez VetSécurité en tant que Data Analyst (Tableaux de bord KPI, automatisation, prédiction)
 
-## ⚡ Fun Fact  
-- Je suis un vrai débrouillard et toujours en train de bidouiller de nouveaux projets ! 🚀  
----
+🔍 Centres d'intérêt
+🤖 Intelligence Artificielle, Machine Learning & Deep Learning
 
-⭐️ Ce profil est un espace ✨ spécial ✨ où mes projets prennent vie ! 🚀  
+☁️ Cloud Computing (Azure, Google Cloud), Data Engineering & Big Data
+
+🧩 Développement web et automatisation (Node.js, React.js, APIs, RPA)
+
+🎓 Recherche de bourses et opportunités pour poursuivre en Master ou en alternance IA/Big Data
+
+🌱 En ce moment j’apprends
+🔗 Intégration avec Microsoft Graph API & OpenAI API
+
+🛠️ Optimisation des workflows avec Node.js et Azure
+
+📈 Analyse avancée de données, modélisation prédictive & visualisation interactive (Power BI, RShiny)
+
+🤝 Je suis ouvert à collaborer sur
+📊 Projets Data Science, automatisation ou visualisation de données
+
+🌐 Développement d’outils décisionnels ou web/app intelligents
+
+🚀 Startups ou projets à impact technologique fort
+
+📫 Me contacter
+✉️ tidiane050@gmail.com
+
+🔗 LinkedIn
+
+💼 GitHub
+
+⚡ Fun Fact
+Je suis un vrai touche-à-tout, toujours en train de créer, tester et améliorer de nouveaux projets tech ! 🚀

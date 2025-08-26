@@ -1,6 +1,6 @@
 <!-- HEADER animé -->
-<p align="justify">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=2D9BF0&height=200&section=header&text=👋%20Salut%20moi%20c'est%20Amadou%20Moussa%20SOW&fontSize=28&fontColor=ffffff&animation=twinkling" />
+<p align="Center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=2D9BF0&height=200&section=header&text=%20Salut%20moi%20c'est%20Amadou%20Moussa%20SOW&fontSize=28&fontColor=ffffff&animation=twinkling" />
 </p>
 
 ---
@@ -64,6 +64,7 @@ Machine Learning • Deep Learning • NLP • RShiny
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sowboki&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 </p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sowboki&theme=tokyonight&hide_border=true&border_radius=8)
 
 
 ---

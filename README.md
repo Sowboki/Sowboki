@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=2D9BF0&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;AI+Developer;Cloud+Explorer;Tech+Innovator)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=008000&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;AI+Developer;Cloud+Explorer;Tech+Innovator)
 
 </div>
 

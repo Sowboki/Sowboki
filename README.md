@@ -1,7 +1,8 @@
 <!-- HEADER animé -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2D9BF0&center=true&vCenter=true&width=500&lines=👋+Salut%2C+moi+c’est+Amadou+Moussa+SOW;🚀+Data+%26+IA+Enthusiast;💻+Étudiant+%7C+Développeur+%7C+Innovateur" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=2D9BF0&height=200&section=header&text=👋%20Salut%20moi%20c'est%20Amadou%20Moussa%20SOW&fontSize=28&fontColor=ffffff&animation=twinkling" />
+</p>
+
 
 ---
 

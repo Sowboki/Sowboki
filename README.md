@@ -1,9 +1,7 @@
 <!-- HEADER animé -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2D9BF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amadou+Moussa+SOW;🚀+Data+and+AI+Enthusiast;💻+Student+%7C+Developer+%7C+Innovator" alt="Typing SVG" />
-</h1>
-
-
+<p align="justify">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=2D9BF0&height=200&section=header&text=👋%20Salut%20moi%20c'est%20Amadou%20Moussa%20SOW&fontSize=28&fontColor=ffffff&animation=twinkling" />
+</p>
 
 ---
 
@@ -64,8 +62,9 @@ Machine Learning • Deep Learning • NLP • RShiny
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sowboki&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sowboki&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 </p>
+
 
 ---
 

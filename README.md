@@ -11,9 +11,8 @@
 ---
 
 ## 🚀 À propos de moi
-🎓 Étudiant en 3e année de **BUT Science des Données** à l'IUT d'Aurillac  
-🎓 Admis en cycle ingénieur à l'**ESIGELEC** *(IA & Big Data – 2025-2028)*  
-🔍 Stage chez **VetSécurité** : création de dashboards, prédictions & automatisations avec **Python / Power BI**  
+🎓 Étudiant Diplômé en **BUT Science des Données** à l'IUT d'Aurillac  
+🎓 Première année cycle ingénieur à l'**ESIGELEC** *(IA & Big Data – 2025-2028)*  
 💡 Passionné par la **Data**, l'**IA**, l'**automatisation** et le **Cloud**  
 
 ---
@@ -122,7 +121,7 @@ END:PROJECTS -->
 ---
 
 ## ⚡ Fun Fact
-Je suis un **bidouilleur tech** : j'adore connecter plusieurs outils pour **automatiser** et **créer de la valeur** 🚀  
+Je suis un **bidouilleur tech** : j'adore connecter plusieurs outils pour **automatiser** et **créer de la valeur** 
 
 ---
 

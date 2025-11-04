@@ -88,7 +88,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowboki&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true"/>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Sowboki&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+  [GitHub Streak](https://streak-stats.demolab.com?user=Sowboki&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
   
 </div>
 

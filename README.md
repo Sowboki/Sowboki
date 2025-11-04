@@ -96,7 +96,7 @@
 
 ## 🎯 Projets Récents
 
-**Bientôt**
+**En cours ...**
 <!-- START:PROJECTS 
 <div align="center">
 

@@ -73,6 +73,7 @@
 📌 Intégration **Microsoft Graph API** & automatisation avec **OpenAI**  
 📌 Déploiement cloud avec **Azure & Node.js**  
 📌 Modélisation prédictive et visualisation avancée  
+📌 Exploitation **google cloud** : **BigQuery**, **google ads**, **Cloud Run** et **Cloud Scheduler** pour automatiser  
 
 ---
 

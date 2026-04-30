@@ -10,9 +10,8 @@
 
 ---
 
-## 🚀 À propos de moi
-🎓 Étudiant Diplômé en **BUT Science des Données** à l'IUT d'Aurillac  
-🎓 Première année cycle ingénieur à l'**ESIGELEC** *(IA & Big Data – 2025-2028)*  
+## 🚀 À propos de moi  
+🎓 Cycle ingénieur à l'**ESIGELEC** *(IA & Big Data)*  
 💡 Passionné par la **Data**, l'**IA**, l'**automatisation** et le **Cloud**  
 
 ---
